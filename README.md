@@ -3,5 +3,7 @@
 Enjoy!
 
 <!-- project_table_start -->
-TABLE HERE
+| Project                                              | Description                                                                               | Install                |
+| ---------------------------------------------------- | ----------------------------------------------------------------------------------------- | ---------------------- |
+| [winline](https://github.com/gwenwindflower/winline) | Polished and performant Claude Code statusline with easy configurability and great extras | `brew install winline` |
 <!-- project_table_end -->
