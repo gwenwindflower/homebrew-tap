@@ -3,7 +3,7 @@
 Enjoy!
 
 <!-- project_table_start -->
-| Project                                              | Description                                                                               | Install                |
-| ---------------------------------------------------- | ----------------------------------------------------------------------------------------- | ---------------------- |
-| [winline](https://github.com/gwenwindflower/winline) | Polished and performant Claude Code statusline with easy configurability and great extras | `brew install winline` |
+| Project                                    | Description                                                                      | Install                |
+| ------------------------------------------ | -------------------------------------------------------------------------------- | ---------------------- |
+| [winline](https://github.com/g15r/winline) | Polished and performant claude code statusline with easy configurability and gre | `brew install winline` |
 <!-- project_table_end -->
