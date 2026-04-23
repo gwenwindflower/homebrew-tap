@@ -5,31 +5,31 @@
 class Winline < Formula
   desc "Pretty and performant claude code statusline"
   homepage "https://github.com/supermodellabs/winline"
-  url "https://github.com/supermodellabs/winline/archive/refs/tags/v0.2.0.tar.gz"
-  sha256 "68edf751f1dcd36ef11d767a555f932332b9a53eff0deb98ddf8bceb8c48ac6f"
+  url "https://github.com/supermodellabs/winline/archive/refs/tags/v0.2.1.tar.gz"
+  sha256 "b06f7d803aa16f02464dfd44e491920c6f9ed052c7d5c1336a5a61a827a23923"
   license "Apache-2.0"
 
   on_macos do
     on_intel do
-      url "https://github.com/supermodellabs/winline/releases/download/v0.2.0/winline-0.2.0-darwin-amd64.tar.gz"
-      sha256 "8533b5d5e534d3f45cfede84790326d9052e16fa7d34a23d2cb920c284956b59"
+      url "https://github.com/supermodellabs/winline/releases/download/v0.2.1/winline-0.2.1-darwin-amd64.tar.gz"
+      sha256 "1f829880fae88dc32c42a2bc1046a92bcaa5ea93ef9085d8873e9a099703925d"
     end
 
     on_arm do
-      url "https://github.com/supermodellabs/winline/releases/download/v0.2.0/winline-0.2.0-darwin-arm64.tar.gz"
-      sha256 "77a097aa94ffa68d9a72feb8212cea82c63b25e80fd2f3957d57aedaf3c4805e"
+      url "https://github.com/supermodellabs/winline/releases/download/v0.2.1/winline-0.2.1-darwin-arm64.tar.gz"
+      sha256 "713388d0bc94ad055b608173ed35a62ac56c807c78932c80c6bbaaf3e7c8e876"
     end
   end
 
   on_linux do
     on_intel do
-      url "https://github.com/supermodellabs/winline/releases/download/v0.2.0/winline-0.2.0-linux-amd64.tar.gz"
-      sha256 "f91f1905d699b227e88ec6d31dfb680316387ad752fa7bdc0790fa1fa51e955d"
+      url "https://github.com/supermodellabs/winline/releases/download/v0.2.1/winline-0.2.1-linux-amd64.tar.gz"
+      sha256 "418497b35f1cc29280091b923c6ea8049ae9c30277f5007be4487eea7e0ef9ad"
     end
 
     on_arm do
-      url "https://github.com/supermodellabs/winline/releases/download/v0.2.0/winline-0.2.0-linux-arm64.tar.gz"
-      sha256 "98d7dccce5bd29c91a8ffd52fb11d998a2df2a483f4b6e2a9ea449717c0b5b7e"
+      url "https://github.com/supermodellabs/winline/releases/download/v0.2.1/winline-0.2.1-linux-arm64.tar.gz"
+      sha256 "b6f9ea2ca50289c1eb1cf4b5c27de2dcee7fe34323dee08f755ee0125c035b55"
     end
   end
 
